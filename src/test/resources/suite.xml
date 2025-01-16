@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="Automate DFM">
+    <test name="API Test Run">
+        <classes >
+            <class name="TestRunner.TestRUnner">
+            </class>
+        </classes>
+    </test>
+</suite>
